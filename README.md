@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mdasimyt" target="blank"><img src="https://img.shields.io/twitter/follow/mdasimyt?logo=twitter&style=for-the-badge" alt="mdasimyt" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA , PYTHON, C++**
+- 🌱 I’m currently learning ** C Language 
 
 - 📫 How to reach me **mdasimyt@gmail.com**
 
