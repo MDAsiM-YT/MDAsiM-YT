@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning ** C Language 
 
-- 📫 How to reach me **mdasimyt@gmail.com**
+- 📫 How to reach me **corporateashu@gmail.com**
 
 - ⚡ Fun fact **i Am curios**
 
