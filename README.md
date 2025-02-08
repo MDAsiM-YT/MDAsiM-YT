@@ -2,7 +2,7 @@
 <h3 align="center">MERN-Stack Developer</h3>
 
 <!-- GIF Image of a boy programming -->
-<img src="https://i.imgur.com/WpxVQM0.gif" alt="Boy Programming" style="width: 300px; height: auto; border-radius: 15px;">
+<img src="https://i.imgur.com/WpxVQM0.gif](https://i.imgur.com/Nl9eRck.gif" alt="Boy Programming" style="width: 300px; height: auto; border-radius: 15px;">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mdasim-yt&label=Profile%20views&color=0e75b6&style=flat" alt="mdasim-yt" />
