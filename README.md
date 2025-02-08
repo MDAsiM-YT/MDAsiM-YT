@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend & Backend developer from Village</h3>
 
 <!-- Image -->
-<img align="right" alt="coding" width="150" height="150" style="border-radius: 50%;" src="https://i.imgur.com/DcBlKej.jpeg">
+<img align="right" alt="coding" width="500" src="https://images.app.goo.gl/aUcJmMxPRmjkh2G77">
 
 
 <!-- Profile Views -->
