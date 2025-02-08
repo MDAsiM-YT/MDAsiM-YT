@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm ASIM MOHD</h1>
 <h3 align="center">A passionate frontend & Backend developer from Village</h3>
 
-<!-- GIF Image of a boy programming -->
-<img src="https://i.imgur.com/WpxVQM0.gif" alt="Boy Programming" style="width: 300px; height: auto; border-radius: 15px;">
+<!-- GIF Image of a boy programming, now with a curve and placed to the right -->
+<img src="https://i.imgur.com/WpxVQM0.gif" alt="Boy Programming" style="width: 400px; height: auto; border-radius: 50%; float: right; margin-left: 20px;">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mdasim-yt&label=Profile%20views&color=0e75b6&style=flat" alt="mdasim-yt" />
@@ -11,7 +11,7 @@
 <p align="left"> 
     <a href="https://twitter.com/mdasimyt" target="blank">
         <img src="https://img.shields.io/twitter/follow/mdasimyt?logo=twitter&style=for-the-badge" alt="mdasimyt" />
-    </a>
+    </a> 
 </p>
 
 - 🌱 I’m currently learning **Full stack development Technologies**
