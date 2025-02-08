@@ -2,7 +2,7 @@
 <h3 align="center">MERN-Stack Developer</h3>
 
 <!-- GIF Image of a boy programming -->
-<img src="https://i.imgur.com/WpxVQM0.gif](https://i.imgur.com/Nl9eRck.gif" alt="Boy Programming" style="width: 300px; height: auto; border-radius: 15px;">
+<img src="https://i.imgur.com/WpxVQM0.gif" alt="Boy Programming" style="width: 300px; height: auto; border-radius: 15px;">
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=mdasim-yt&label=Profile%20views&color=0e75b6&style=flat" alt="mdasim-yt" />
@@ -11,14 +11,14 @@
 <p align="left"> 
     <a href="https://twitter.com/mdasimyt" target="blank">
         <img src="https://img.shields.io/twitter/follow/mdasimyt?logo=twitter&style=for-the-badge" alt="mdasimyt" />
-    </a>
+    </a> 
 </p>
 
-- 🌱 specialize in building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js), with a focus on both frontend and backend development.
+- 🌱 Specialize in building scalable web applications using the MERN stack (MongoDB, Express, React, Node.js), with a focus on both frontend and backend development.
 
-- 📫 How to reach me *corporateashu@gmail.com*
+- 📫 How to reach me: *corporateashu@gmail.com*
 
-- ⚡ Fun fact: **"Obsessed with discovering and experimenting with cutting-edge technologies to push the boundaries of what's possible.*
+- ⚡ Fun fact: **"Obsessed with discovering and experimenting with cutting-edge technologies to push the boundaries of what's possible."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,7 +40,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- List of technologies (without removed ones) -->
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
